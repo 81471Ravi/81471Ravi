@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ravi 
 - 👀 I’m interested in ... A.I
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning for A.I
+- 💞️ I’m looking to collaborate with new innovations
+
 
 <!---
 81471Ravi/81471Ravi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
